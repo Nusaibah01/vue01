@@ -1,0 +1,140 @@
+{
+    "jobTitle": [
+         {
+            "titel":"Aspiring Full-stack developer and Cybersecurity analyst"
+
+         }
+    ],
+    "about": [
+       
+      "I am a self-motivated aspiring developer and Coding enthusist.I matriculated from The Leadership College in 2023 and I am currently attending a web-development bootcamp at Life Choices Academy.Beyond my proffesional pursuits, you'll find  me exploring the world of linguistics, learning japenese, arabic and german,trying out different cafe's and spending quality time with family and friends or playing chess."
+       
+        
+    ],
+    "education": [
+    {"id": 1,
+    "School": "Life Choices Academy: Web Development Bootcamp,",
+    "Year":"April 2024 - Present",
+    "Experiance": "At Life Choices Academy I am learning proffessional and techincal development.The technical curriculum has a focus on Html, CSS, Bootstrap,JavaScript, VueJS, NodeJS, mySQL"
+
+    },
+    {
+        "id": 2,
+        "School":  "Harvard's Cs50 Introduction to Computer Science",
+        "Year":"April 2024 - Present",
+        "Experiance":"Cs50x has been a rigourous journey of discovery.Taught mainly by Proffessor David.J Malan the course has a focus on abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML."
+
+    },
+    {
+        "id": 3,
+        "School":"Khan Academy:Computer Science Course: Internet Security",
+        "Year":"December 2023 - Present",
+        "Experiance":"This course has a focus on the theoretical aspect of computer science. In my opnion it is introductory in nature, and has a focus on algorithms cryptogoraphy and  information theory. The course led me to dicover my love for cryptogoraphy and cyphers."
+
+    },
+    {
+        "id": 4,
+        "School": "The Leadership College Mannernberg",
+        "Year": "2018-2023",
+        "Experiance":"I attended and matriculated from The Leadership College Mannernberg. My experiance at the school was generally a positive one,"
+    }
+ 
+    ],
+    "experiance": [
+    {}
+    ],
+       
+    "skills": [
+    {
+      "id": 5,
+      "criticalSkill1": "Strong analytical and problem-solving abilities",
+      "criticalSkill2": "Ability to work collaboratively in a team environment",
+      "criticalSkill3": "Adaptability and willingness to learn new concepts"
+    },
+    {
+        "id": 6,
+        "multilingualism1": "Japenese (一年半)",
+        "multilingualism2": "German (acht Monate)",
+        "multilingualism3": "Arabic (ثلاثة أشهر)"
+
+    },
+    {
+        "id": 7,
+        "technicalSkill1": "Html",
+        "technicalSkill2": "CSS",
+        "technicalSkill3": "Bootstrap",
+        "technicalSkill4": "JavaScript",
+        "technicalSkill5": "VueJS"
+    }
+        
+    ],
+    "testimonials": [
+    {
+      "name": "Thuthuza",
+      "surname": "Poswayo",
+      "testimonial": "Nusaibah is kind, helpful and easily approachable. She is amazing to work with, she makes a great team player!",
+      "profile": "https://nusaibah01.github.io/all-images/images/Thutz1.jpg"
+
+    },
+    {
+        "name": "LamlaNkosi",
+        "surname": "",
+        "testimonial": "Nuisabah is an absolute gem, Calm, kind, and incredibly diligent, she embodies grace and dedication.A true team player, she is always focused on her tasks, ensuring a harmonious work environment. Additionally, she is a great person to talk to, who under pressure, perseveres until the job is done.",
+        "profile": "https://nusaibah01.github.io/all-images/images/Lamla.jpg"
+    },
+    {
+        "name": "Imraan",
+        "surname": "Sheldon",
+        "testimonial": "Nusaibah is a remarkable individual, embodying kindness, dedication, and intelligence in every aspect of her life. Her gentle demeanor belies a remarkable resilience and inner strength, inspiring those around her to strive for greatness. It is a privilege to know Nusaibah, and I have no doubt that she will continue to  make a positive impact on the world around her.",
+        "profile": "https://nusaibah01.github.io/all-images/images/Imraan.jpg"
+    },
+    {
+        "name": "Abdurahman",
+        "surname": "Charif",
+        "testimonial": "Nusaibah is a  dedicated worker that uses her insight to accomplish her goals and help those contribute to those around her.Her commitment and dedication shine through with all that she applies herself at.",
+        "profile": "https://nusaibah01.github.io/all-images/images/Abdu.png"
+    },
+    {
+        "name": "Joel",
+        "surname": "Mukanya",
+        "testimonial": "Nuaibah is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap,VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer",
+        "profile": "https://nusaibah01.github.io/all-images/images/joel2.jpg"
+    }
+
+       
+],
+"projects" : [
+    {
+      "project": "Calculator",
+       "description": "Using Html, CSS and Javascript I made a calculator app",
+       "image": "",
+       "github": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
+       "netlify": "https://java-script-calculator-sigma.vercel.app/"
+    },
+    {
+       "project": "Keyboard",
+       "description":"Using Html, CSS and Javascript I made a keyboard app",
+       "github":"https://github.com/Nusaibah01/Keyboard.git",
+       "netlify":"https://keyboard-rosy.vercel.app/"
+
+    },
+    {
+       "project": "Flip Card",
+       "description":"Using Html and CSS I made a Flip Card App",
+       "github":"",
+       "netlify":""
+    },
+    {
+       "project": "Eccomerce",
+       "description": "Using Html, CSS and Javascript I made a bookstore ",
+       "github": "https://github.com/Nusaibah01/eccomerce.git",
+       "netlify": "https://eccomerce-ebon.vercel.app/"
+
+
+    }
+   
+    
+   
+    ]
+
+}
