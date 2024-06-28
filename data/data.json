@@ -7,7 +7,7 @@
     ],
     "about": [
        
-      "I am a self-motivated aspiring developer and Coding enthusist.I matriculated from The Leadership College in 2023 and I am currently attending a web-development bootcamp at Life Choices Academy.Beyond my proffesional pursuits, you'll find  me exploring the world of linguistics, learning japenese, arabic and german,trying out different cafe's and spending quality time with family and friends or playing chess."
+      "I am a self-motivated aspiring developer and coding enthusiast, with a passion for exploring the endless possibilities of technology. Having matriculated from The Leadership College in 2023, I am currently immersed in a web development bootcamp at Life Choices Academy, where I am eagerly expanding my skills and knowledge.While I am at the beginner level in my coding journey, I am dedicated to learning and mastering the intricacies of web development. Beyond my professional pursuits, I am an avid linguist fascinated by languages such as Japanese, Arabic, and German. You'll often find me discovering new cafes, enjoying quality time with family and friends, or strategizing over a chessboard.I am excited about the opportunity to contribute to innovative projects and collaborate with like-minded individuals who share my passion for technology and continuous learning."
        
         
     ],
@@ -36,35 +36,36 @@
         "id": 4,
         "School": "The Leadership College Mannernberg",
         "Year": "2018-2023",
-        "Experiance":"I attended and matriculated from The Leadership College Mannernberg. My experiance at the school was generally a positive one,"
+        "Experiance":"I attended and matriculated from The Leadership College Mannernberg. My experiance at the school was a generally a positive one"
     }
  
     ],
-    "experiance": [
-    {}
-    ],
-       
+   
     "skills": [
     {
       "id": 5,
-      "criticalSkill1": "Strong analytical and problem-solving abilities",
-      "criticalSkill2": "Ability to work collaboratively in a team environment",
-      "criticalSkill3": "Adaptability and willingness to learn new concepts"
+      "softSkill1": "Strong analytical and problem-solving abilities",
+      "softSkill2": "Ability to work collaboratively in a team environment",
+      "softSkill3": "Adaptability and willingness to learn new concepts"
     },
     {
-        "id": 6,
-        "multilingualism1": "Japenese (一年半)",
-        "multilingualism2": "German (acht Monate)",
-        "multilingualism3": "Arabic (ثلاثة أشهر)"
-
+       "id": 6,
+      "polyglotSkill1": "English",
+      "polyglotSkill2": "Afrikaans",
+      "polyglotSkill3": "I have been studing arabic for three months  Arabic (ثلاثة أشهر)",
+      "polyglotSkill4": "I have been studing German for eight months German (acht Monate)",
+      "polyglotskill": "I have been studying Japenese for a year and a half (一年半)"
+      
+      
     },
-    {
-        "id": 7,
-        "technicalSkill1": "Html",
-        "technicalSkill2": "CSS",
-        "technicalSkill3": "Bootstrap",
-        "technicalSkill4": "JavaScript",
-        "technicalSkill5": "VueJS"
+    
+    
+{        "id": 7,
+        "techSkill1": "Html",
+        "techSkill2": "CSS",
+        "techSkill3": "Bootstrap",
+        "techSkill4": "JavaScript",
+        "techSkill5": "VueJS"
     }
         
     ],
@@ -78,7 +79,7 @@
     },
     {
         "name": "LamlaNkosi",
-        "surname": "",
+        "surname": "Nomnganga",
         "testimonial": "Nuisabah is an absolute gem, Calm, kind, and incredibly diligent, she embodies grace and dedication.A true team player, she is always focused on her tasks, ensuring a harmonious work environment. Additionally, she is a great person to talk to, who under pressure, perseveres until the job is done.",
         "profile": "https://nusaibah01.github.io/all-images/images/Lamla.jpg"
     },
@@ -106,29 +107,32 @@
 "projects" : [
     {
       "project": "Calculator",
-       "description": "Using Html, CSS and Javascript I made a calculator app",
-       "image": "",
+       "description": "Using Html, CSS and Javascript I designed a calculator Web app",
+       "image": "https://nusaibah01.github.io/all-images/",
        "github": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
-       "netlify": "https://java-script-calculator-sigma.vercel.app/"
+       "vercel": "https://java-script-calculator-sigma.vercel.app/"
     },
     {
        "project": "Keyboard",
-       "description":"Using Html, CSS and Javascript I made a keyboard app",
+       "description":"Using Html, CSS and Javascript I designed a keyboard Web app",
+       "image":"https://nusaibah01.github.io/all-images/",
        "github":"https://github.com/Nusaibah01/Keyboard.git",
-       "netlify":"https://keyboard-rosy.vercel.app/"
+       "vercel":"https://keyboard-rosy.vercel.app/"
 
     },
     {
-       "project": "Flip Card",
-       "description":"Using Html and CSS I made a Flip Card App",
-       "github":"",
-       "netlify":""
+       "project": "To Do List",
+       "description":"Using Html, CSS and javascript I designed a To Do List Web App",
+       "image":"https://nusaibah01.github.io/all-images/",
+       "github":"https://github.com/Nusaibah01/assignment03.git",
+       "vercel":"https://todolist-gamma-tan.vercel.app/"
     },
     {
        "project": "Eccomerce",
-       "description": "Using Html, CSS and Javascript I made a bookstore ",
+       "description": "Using Html, CSS and Javascript I designed a bookstore ",
+       "image":"https://nusaibah01.github.io/all-images/",
        "github": "https://github.com/Nusaibah01/eccomerce.git",
-       "netlify": "https://eccomerce-ebon.vercel.app/"
+       "vercel": "https://eccomerce-ebon.vercel.app/"
 
 
     }
