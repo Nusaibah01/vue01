@@ -70,32 +70,32 @@
         
     ],
     "testimonials": [
-    {
+    { "id": 8,
       "name": "Thuthuza",
       "surname": "Poswayo",
       "testimonial": "Nusaibah is kind, helpful and easily approachable. She is amazing to work with, she makes a great team player!",
       "profile": "https://nusaibah01.github.io/all-images/images/Thutz1.jpg"
 
     },
-    {
+    {   "id":9,
         "name": "LamlaNkosi",
         "surname": "Nomnganga",
         "testimonial": "Nuisabah is an absolute gem, Calm, kind, and incredibly diligent, she embodies grace and dedication.A true team player, she is always focused on her tasks, ensuring a harmonious work environment. Additionally, she is a great person to talk to, who under pressure, perseveres until the job is done.",
         "profile": "https://nusaibah01.github.io/all-images/images/Lamla.jpg"
     },
-    {
+    {   "id":10,
         "name": "Imraan",
         "surname": "Sheldon",
         "testimonial": "Nusaibah is a remarkable individual, embodying kindness, dedication, and intelligence in every aspect of her life. Her gentle demeanor belies a remarkable resilience and inner strength, inspiring those around her to strive for greatness. It is a privilege to know Nusaibah, and I have no doubt that she will continue to  make a positive impact on the world around her.",
         "profile": "https://nusaibah01.github.io/all-images/images/Imraan.jpg"
     },
-    {
+    {   "id":11,
         "name": "Abdurahman",
         "surname": "Charif",
         "testimonial": "Nusaibah is a  dedicated worker that uses her insight to accomplish her goals and help those contribute to those around her.Her commitment and dedication shine through with all that she applies herself at.",
         "profile": "https://nusaibah01.github.io/all-images/images/Abdu.png"
     },
-    {
+    {   "id":12,
         "name": "Joel",
         "surname": "Mukanya",
         "testimonial": "Nuaibah is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap,VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer",
@@ -105,14 +105,14 @@
        
 ],
 "projects" : [
-    {
+    {  "id": 13,
       "project1": "Calculator",
        "description1": "Using Html, CSS and Javascript I designed a calculator Web app",
        "image1": "https://nusaibah01.github.io/all-images/images/Catculator.jpg",
        "github1": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
        "vercel1": "https://java-script-calculator-sigma.vercel.app/"
     },
-    {
+    {   "id":14,
        "project2": "Keyboard",
        "description2":"Using Html, CSS and Javascript I designed a keyboard Web app",
        "image2":"https://nusaibah01.github.io/all-images/images/KeyBoard.png",
@@ -120,14 +120,14 @@
        "vercel2":"https://keyboard-rosy.vercel.app/"
 
     },
-    {
+    {  "id":15,
        "project3": "To Do List",
        "description3":"Using Html, CSS and javascript I designed a To Do List Web App",
        "image3":"https://nusaibah01.github.io/all-images/images/To Do.jpg",
        "github3":"https://github.com/Nusaibah01/assignment03.git",
        "vercel3":"https://todolist-gamma-tan.vercel.app/"
     },
-    {
+    {   "id":16,
        "project4": "Eccomerce",
        "description4": "Using Html, CSS and Javascript I designed a bookstore ",
        "image4":"https://nusaibah01.github.io/all-images/images/eccomerce.png",
