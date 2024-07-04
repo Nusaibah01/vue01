@@ -46,9 +46,9 @@
     "skills": [
     {
       "id": 5,
-      "softSkill1": "Strong analytical and problem-solving abilities",
-      "softSkill2": "Ability to work collaboratively in a team environment",
-      "softSkill3": "Adaptability and willingness to learn new concepts"
+      "softSkill1": "-Strong analytical and problem-solving abilities",
+      "softSkill2": "-Ability to work collaboratively in a team environment",
+      "softSkill3": "-Adaptability and willingness to learn new concepts"
     },
     {
        "id": 6,
