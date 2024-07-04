@@ -54,9 +54,9 @@
        "id": 6,
       "polyglotSkill1": "English",
       "polyglotSkill2": "Afrikaans",
-      "polyglotSkill3": "I have been studing arabic for three months  Arabic (ثلاثة أشهر)",
-      "polyglotSkill4": "I have been studing German for eight months German (acht Monate)",
-      "polyglotskill": "I have been studying Japenese for a year and a half (一年半)"
+      "polyglotSkill3": "German",
+      "polyglotSkill4": "Arabic",
+      "polyglotskill": "Japenese"
       
       
     },
@@ -134,14 +134,7 @@
        "github": "https://github.com/Nusaibah01/JavaScript-Calculator.git",
        "vercel": "https://java-script-calculator-sigma.vercel.app/"
     },
-    {   "id":18,
-       "projectName": "Keyboard",
-       "description":"Using Html, CSS and Javascript I designed a keyboard Web app",
-       "image":"https://nusaibah01.github.io/all-images/images/KeyBoard.png",
-       "github":"https://github.com/Nusaibah01/Keyboard.git",
-       "vercel":"https://keyboard-rosy.vercel.app/"
-
-    },
+  
     {  "id":19,
        "projectName": "To Do List",
        "description":"Using Html, CSS and javascript I designed a To Do List Web App",
@@ -175,7 +168,15 @@
         "github": "https://github.com/Nusaibah01/BMI-Calculator-.git",
         "vercel": "https://bmi-calculator-flame-gamma.vercel.app/"
 
-    }
+    },
+    {   "id":18,
+    "projectName": "Keyboard",
+    "description":"Using Html, CSS and Javascript I designed a keyboard Web app",
+    "image":"https://nusaibah01.github.io/all-images/images/KeyBoard.png",
+    "github":"https://github.com/Nusaibah01/Keyboard.git",
+    "vercel":"https://keyboard-rosy.vercel.app/"
+
+ }
    
     
    
