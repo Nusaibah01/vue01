@@ -1,7 +1,7 @@
 {
     "jobTitle": [
          {
-            "titel":"Aspiring Full-stack developer "
+            "titel":"Aspiring Developer "
  },
  {
     "titel": "and Cybersecurity analyst"
@@ -46,9 +46,9 @@
     "skills": [
     {
       "id": 5,
-      "softSkill1": "-Strong analytical and problem-solving abilities",
-      "softSkill2": "-Ability to work collaboratively in a team environment",
-      "softSkill3": "-Adaptability and willingness to learn new concepts"
+      "softSkill1": "Strong analytical and problem-solving abilities",
+      "softSkill2": "Ability to work collaboratively in a team environment",
+      "softSkill3": "Adaptability and willingness to learn new concepts"
     },
     {
        "id": 6,
@@ -113,14 +113,7 @@
         "testimonial": "Nusaibah is a remarkable individual, embodying kindness, dedication, and intelligence in every aspect of her life.I have no doubt that she will continue to  make a positive impact on the world around her.",
         "profile": "https://nusaibah01.github.io/all-images/images/Imraan.jpg"
     },
-    {   "id":15,
-        "name": "Abdurahman",
-        "surname": "Charif",
-        "role": "colleague",
-        "icon": "https://nusaibah01.github.io/all-images/images/collegue.jpg",
-        "testimonial": "Nusaibah is a  dedicated worker that uses her insight to accomplish her goals and help those contribute to those around her.Her commitment and dedication shine through with all that she applies herself at.",
-        "profile": "https://nusaibah01.github.io/all-images/images/Abdu.png"
-    },
+ 
     {   "id":16,
         "name": "Joel",
         "icon": "https://nusaibah01.github.io/all-images/images/Lecturer (2).jpg",
