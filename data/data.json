@@ -113,6 +113,14 @@
         "testimonial": "Nusaibah is a remarkable individual, embodying kindness, dedication, and intelligence in every aspect of her life.I have no doubt that she will continue to  make a positive impact on the world around her.",
         "profile": "https://nusaibah01.github.io/all-images/images/Imraan.jpg"
     },
+       {   "id":15,
+        "name": "Abdurahman",
+         "surname": "Charif",
+         "role": "colleague",
+       "icon": "https://nusaibah01.github.io/all-images/images/collegue.jpg",
+        "testimonial": "Nusaibah is a  dedicated worker that uses her insight to accomplish her goals and help those contribute to those around her.Her commitment and dedication shine through with all that she applies herself at.",
+        "profile": "https://nusaibah01.github.io/all-images/images/Abdu.png"
+    },
  
     {   "id":16,
         "name": "Joel",
@@ -122,6 +130,7 @@
         "testimonial": "Nuaibah is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap,VS Code, and Figma. I am pleased to introduce her as an exceptional candidate and developer",
         "profile": "https://nusaibah01.github.io/all-images/images/joel2.jpg"
     }
+     
 
        
 ],
